@@ -1,0 +1,624 @@
+1,B.A. (Anthropology),Graduation
+2,B.A. (Arts/Humanities/Social Sciences),Graduation
+3,B.A. (Communication),Graduation
+4,B.A. (Economics),Graduation
+5,B.A. (English),Graduation
+6,B.A. (Film Studies),Graduation
+7,B.A. (Fine Arts / Applied Arts),Graduation
+8,B.A. (Geography),Graduation
+9,B.A. (Hindi),Graduation
+10,B.A. (History),Graduation
+11,B.A. (Journalism),Graduation
+12,B.A. (Maths),Graduation
+13,B.A. (Music),Graduation
+14,B.A. (Pass),Graduation
+15,B.A. (Philosophy),Graduation
+16,B.A. (Political Science),Graduation
+17,B.A. (PR / Advertising),Graduation
+18,B.A. (Psychology),Graduation
+19,B.A. (Sanskrit),Graduation
+20,B.A. (Sociology),Graduation
+21,B.A. (Statistics),Graduation
+22,B.A. (Vocational Course),Graduation
+23,B.A. (Other - Please Specify),Graduation
+24,B.Com (Honours),Graduation
+25,B.Com (Pass),Graduation
+26,B.Com (Other - Please Specify),Graduation
+27,B.Sc (Agriculture),Graduation
+28,B.Sc (Anthropology),Graduation
+29,B.Sc (Biochemistry),Graduation
+30,B.Sc (Biology),Graduation
+31,B.Sc (Botany),Graduation
+32,B.Sc (Chemistry),Graduation
+33,B.Sc (Computer Science),Graduation
+34,B.Sc (Dairy Technology),Graduation
+35,B.Sc (Economics),Graduation
+36,B.Sc (Electronics / Telecommunication),Graduation
+37,B.Sc (Environmental Science),Graduation
+38,B.Sc (Food Technology),Graduation
+39,B.Sc (General),Graduation
+40,B.Sc (Geography),Graduation
+41,B.Sc (Geology),Graduation
+42,B.Sc (Home Science),Graduation
+43,B.Sc (Maths),Graduation
+44,B.Sc (Microbiology),Graduation
+45,B.Sc (Nursing),Graduation
+46,"B.Sc, Post Basic (Nursing) ",Graduation
+47,B.Sc (Physics),Graduation
+48,B.Sc (Statistics),Graduation
+49,B.Sc (Zoology),Graduation
+50,B.Sc (Other - Please Specify),Graduation
+51,B.Arch (Architecture),Graduation
+52,B.B.A. / BBM / BBS (Business Management),Graduation
+53,B.C.A. (Computer Application),Graduation
+54,B.D.S. (Dental Surgery),Graduation
+55,B.E. / B.Tech (Agriculture Engineering),Graduation
+56,B.E. / B.Tech (Automobile Engineering),Graduation
+57,B.E. / B.Tech (Aviation / Aeronautical Engineering),Graduation
+58,B.E. / B.Tech (Bio-Chemistry / Bio-Technology),Graduation
+59,B.E. / B.Tech (BioMedical Engineering),Graduation
+60,B.E. / B.Tech (Ceramics Engineering),Graduation
+61,B.E. / B.Tech (Chemical Engineering),Graduation
+62,B.E. / B.Tech (Civil Engineering),Graduation
+63,B.E. / B.Tech (Computer Science),Graduation
+64,B.E. / B.Tech (Electrical Engineering),Graduation
+65,B.E. / B.Tech (Electronics & Communications Engineering),Graduation
+66,B.E. / B.Tech (Energy Engineering),Graduation
+67,B.E. / B.Tech (Environmental Engineering),Graduation
+68,B.E. / B.Tech (Industrial & Production Engineering),Graduation
+69,B.E. / B.Tech (Instrumentation Engineering),Graduation
+70,B.E. / B.Tech (Leather Technology),Graduation
+71,B.E. / B.Tech (Marine Engineering),Graduation
+72,B.E. / B.Tech (Mechanical Engineering),Graduation
+73,B.E. / B.Tech (Metallurgy /  Material Technology),Graduation
+74,B.E. / B.Tech (Mineral Engineering),Graduation
+75,B.E. / B.Tech (Mining Engineering),Graduation
+76,B.E. / B.Tech (Nuclear Engineering),Graduation
+77,B.E. / B.Tech (Oceanography / Ocean Engineering),Graduation
+78,B.E. / B.Tech (Paint / Oil Engineering),Graduation
+79,B.E. / B.Tech (Petroleum Engineering),Graduation
+80,B.E. / B.Tech (Plastics Engineering),Graduation
+81,B.E. / B.Tech (Textile Technology),Graduation
+82,B.E. / B.Tech (Other - Please Specify),Graduation
+83,B.Ed (Education / Teaching),Graduation
+84,B.H.M. (Hotel Management),Graduation
+85,B.Pharma (Pharmacy),Graduation
+86,BL / LLB (Law),Graduation
+87,BVSC (Veterinary Science),Graduation
+88,MBBS (Medical),Graduation
+89,CA (Chartered Accountant),Post-Graduation / PG Diploma
+90,CS (Company Secretary),Post-Graduation / PG Diploma
+91,ICWA,Post-Graduation / PG Diploma
+92,M.Arch. (Architecture),Post-Graduation / PG Diploma
+93,M.Arch. (Building Engg & Management),Post-Graduation / PG Diploma
+94,M.Arch. (Landscape Architecture),Post-Graduation / PG Diploma
+95,M.Arch. (Other),Post-Graduation / PG Diploma
+96,M.Arch. (Planning),Post-Graduation / PG Diploma
+97,M.Com. (Commerce),Post-Graduation / PG Diploma
+98,M.Ed. (Education),Post-Graduation / PG Diploma
+99,M.Pharm. (Pharmacy),Post-Graduation / PG Diploma
+100,M.Phil. (Philosophy),Post-Graduation / PG Diploma
+101,M.Sc. (Agriculture),Post-Graduation / PG Diploma
+102,M.Sc. (Biochemistry),Post-Graduation / PG Diploma
+103,M.Sc. (Biology),Post-Graduation / PG Diploma
+104,M.Sc. (Botany),Post-Graduation / PG Diploma
+105,M.Sc. (Chemistry),Post-Graduation / PG Diploma
+106,M.Sc. (Computer Science),Post-Graduation / PG Diploma
+107,M.Sc. (Dairy Technology),Post-Graduation / PG Diploma
+108,M.Sc. (Electronics/ Telecommunications),Post-Graduation / PG Diploma
+109,M.Sc. (Environmental Science),Post-Graduation / PG Diploma
+110,M.Sc. (Food Technology),Post-Graduation / PG Diploma
+111,M.Sc. (Geology),Post-Graduation / PG Diploma
+112,M.Sc. (Home Science),Post-Graduation / PG Diploma
+113,M.Sc. (Information Technology),Post-Graduation / PG Diploma
+114,M.Sc. (Maths),Post-Graduation / PG Diploma
+115,M.Sc. (Microbiology),Post-Graduation / PG Diploma
+116,M.Sc. (Nursing),Post-Graduation / PG Diploma
+117,M.Sc. (Other),Post-Graduation / PG Diploma
+118,M.Sc. (Physics),Post-Graduation / PG Diploma
+119,M.Sc. (Statistics),Post-Graduation / PG Diploma
+120,M.Sc. (Zoology),Post-Graduation / PG Diploma
+121,M.A. (Anthropology),Post-Graduation / PG Diploma
+122,M.A. (Arts/Humanities/Social Sciences),Post-Graduation / PG Diploma
+123,M.A. (Communication),Post-Graduation / PG Diploma
+124,M.A. (Economics),Post-Graduation / PG Diploma
+125,M.A. (English),Post-Graduation / PG Diploma
+126,M.A. (Film Studies),Post-Graduation / PG Diploma
+127,M.A. (Fine Arts/Applied Arts),Post-Graduation / PG Diploma
+128,M.A. (Geography),Post-Graduation / PG Diploma
+129,M.A. (Hindi),Post-Graduation / PG Diploma
+130,M.A. (History),Post-Graduation / PG Diploma
+131,M.A. (Maths),Post-Graduation / PG Diploma
+132,M.A. (Music),Post-Graduation / PG Diploma
+133,M.A. (Other Indian Languages),Post-Graduation / PG Diploma
+134,M.A. (Other International Languages),Post-Graduation / PG Diploma
+135,M.A. (Other),Post-Graduation / PG Diploma
+136,M.A. (Philosophy),Post-Graduation / PG Diploma
+137,M.A. (Political Science),Post-Graduation / PG Diploma
+138,M.A. (PR/ Advertising),Post-Graduation / PG Diploma
+139,M.A. (Psychology),Post-Graduation / PG Diploma
+140,M.A. (Sanskrit),Post-Graduation / PG Diploma
+141,M.A. (Sociology),Post-Graduation / PG Diploma
+142,M.A. (Statistics),Post-Graduation / PG Diploma
+143,MBA / PGDM (Advertising/Mass Communication),Post-Graduation / PG Diploma
+144,MBA / PGDM (Finance),Post-Graduation / PG Diploma
+145,MBA / PGDM (HR/Industrial Relations),Post-Graduation / PG Diploma
+146,MBA / PGDM (Information Technology),Post-Graduation / PG Diploma
+147,MBA / PGDM (International Business),Post-Graduation / PG Diploma
+148,MBA / PGDM (Marketing),Post-Graduation / PG Diploma
+149,MBA / PGDM (Other),Post-Graduation / PG Diploma
+150,MBA / PGDM (Systems),Post-Graduation / PG Diploma
+151,MCA / PGDCA (Computer Science),Post-Graduation / PG Diploma
+152,MDS (Master of Dental Surgery),Post-Graduation / PG Diploma
+153,ML / LLM (Law),Post-Graduation / PG Diploma
+154,MS / MD (Anesthesiology),Post-Graduation / PG Diploma
+155,MS / MD (Biochemistry),Post-Graduation / PG Diploma
+156,MS / MD (Cardiology),Post-Graduation / PG Diploma
+157,MS / MD (Dermatology),Post-Graduation / PG Diploma
+158,MS / MD (Emergency Medicine),Post-Graduation / PG Diploma
+159,MS / MD (ENT),Post-Graduation / PG Diploma
+160,MS / MD (Gastroenterology),Post-Graduation / PG Diploma
+161,MS / MD (General Physician),Post-Graduation / PG Diploma
+162,MS / MD (Genetic Medicine),Post-Graduation / PG Diploma
+163,MS / MD (Gyneocology),Post-Graduation / PG Diploma
+164,MS / MD (Hepatology),Post-Graduation / PG Diploma
+165,MS / MD (Internal Medicine),Post-Graduation / PG Diploma
+166,MS / MD (Microbiology),Post-Graduation / PG Diploma
+167,MS / MD (Nephrology),Post-Graduation / PG Diploma
+168,MS / MD (Neurology),Post-Graduation / PG Diploma
+169,MS / MD (Nuclear Medicine),Post-Graduation / PG Diploma
+170,MS / MD (Oncology),Post-Graduation / PG Diploma
+171,MS / MD (Opthalmology),Post-Graduation / PG Diploma
+172,MS / MD (Orthopaedic),Post-Graduation / PG Diploma
+173,MS / MD (Other),Post-Graduation / PG Diploma
+174,MS / MD (Pathology),Post-Graduation / PG Diploma
+175,MS / MD (Pediatrics),Post-Graduation / PG Diploma
+176,MS / MD (Physiotherapy),Post-Graduation / PG Diploma
+177,MS / MD (Preventive and Social Medicine),Post-Graduation / PG Diploma
+178,MS / MD (Psychiatry),Post-Graduation / PG Diploma
+179,MS / MD (Radiology),Post-Graduation / PG Diploma
+180,MS / MD (Rehabilitation Medicine),Post-Graduation / PG Diploma
+181,MS / MD (Reproductive Medicine),Post-Graduation / PG Diploma
+182,MS / MD (Surgery),Post-Graduation / PG Diploma
+183,MS / MD (Urology),Post-Graduation / PG Diploma
+184,MS /ME / M.Tech. (Agriculture),Post-Graduation / PG Diploma
+185,MS /ME / M.Tech. (Automobile),Post-Graduation / PG Diploma
+186,MS /ME / M.Tech. (Aviation/Aeronautical),Post-Graduation / PG Diploma
+187,MS /ME / M.Tech. (Biochemical),Post-Graduation / PG Diploma
+188,MS /ME / M.Tech. (Biomedical),Post-Graduation / PG Diploma
+189,MS /ME / M.Tech. (Ceramics),Post-Graduation / PG Diploma
+190,MS /ME / M.Tech. (Chemical),Post-Graduation / PG Diploma
+191,MS /ME / M.Tech. (Civil),Post-Graduation / PG Diploma
+192,MS /ME / M.Tech. (Computer Science),Post-Graduation / PG Diploma
+193,MS /ME / M.Tech. (Electrical),Post-Graduation / PG Diploma
+194,MS /ME / M.Tech. (Electronics/Telecommunication),Post-Graduation / PG Diploma
+195,MS /ME / M.Tech. (Energy),Post-Graduation / PG Diploma
+196,MS /ME / M.Tech. (Environmental),Post-Graduation / PG Diploma
+197,MS /ME / M.Tech. (Instrumentation),Post-Graduation / PG Diploma
+198,MS /ME / M.Tech. (Leather Technology),Post-Graduation / PG Diploma
+199,MS /ME / M.Tech. (Marine),Post-Graduation / PG Diploma
+200,MS /ME / M.Tech. (Mechanical),Post-Graduation / PG Diploma
+201,MS /ME / M.Tech. (Metallurgy),Post-Graduation / PG Diploma
+202,MS /ME / M.Tech. (Mineral),Post-Graduation / PG Diploma
+203,MS /ME / M.Tech. (Mining),Post-Graduation / PG Diploma
+204,MS /ME / M.Tech. (Nuclear),Post-Graduation / PG Diploma
+205,MS /ME / M.Tech. (Oceanography/Ocean),Post-Graduation / PG Diploma
+206,MS /ME / M.Tech. (Other),Post-Graduation / PG Diploma
+207,MS /ME / M.Tech. (Paint/Oil),Post-Graduation / PG Diploma
+208,MS /ME / M.Tech. (Petroleum),Post-Graduation / PG Diploma
+209,MS /ME / M.Tech. (Plastics),Post-Graduation / PG Diploma
+210,MS /ME / M.Tech. (Production/Industrial),Post-Graduation / PG Diploma
+211,MS /ME / M.Tech. (Production/Industrial),Post-Graduation / PG Diploma
+212,Architectural Assistant,ITI Course (Craftsman Training)
+213,Baker and Confectioner,ITI Course (Craftsman Training)
+214,Building Maintenance,ITI Course (Craftsman Training)
+215,Cabin / Room Attendant,ITI Course (Craftsman Training)
+216,Cane Willow and Bamboo Work,ITI Course (Craftsman Training)
+217,Carpenter,ITI Course (Craftsman Training)
+218,Catering & Hospitability Assistant,ITI Course (Craftsman Training)
+219,Chemical Plant Attendant / Operator,ITI Course (Craftsman Training)
+220,Computer Aided Embroidery & Needle Work,ITI Course (Craftsman Training)
+221,Computer Operator and Programming Assistant (COPA),ITI Course (Craftsman Training)
+222,Corporate House Keeping,ITI Course (Craftsman Training)
+223,Counselling Skills,ITI Course (Craftsman Training)
+224,Craftsman Food Production (General),ITI Course (Craftsman Training)
+225,Craftsman Food Production (Vegetarian),ITI Course (Craftsman Training)
+226,Creche Management,ITI Course (Craftsman Training)
+227,Cutting & Sewing,ITI Course (Craftsman Training)
+228,Dairying,ITI Course (Craftsman Training)
+229,Data Entry Operator,ITI Course (Craftsman Training)
+230,Dental Laboratory Equipment Technician,ITI Course (Craftsman Training)
+231,Desk Top Publishing (DTP) Operator,ITI Course (Craftsman Training)
+232,Digital Photographer,ITI Course (Craftsman Training)
+233,Domestic House Keeping,ITI Course (Craftsman Training)
+234,Domestic Painter,ITI Course (Craftsman Training)
+235,Draughtsman (Civil),ITI Course (Craftsman Training)
+236,Draughtsman (Mechanical),ITI Course (Craftsman Training)
+237,Dress Making,ITI Course (Craftsman Training)
+238,Driver Cum Mechanic (Light Motor Vehicle),ITI Course (Craftsman Training)
+239,Electrician,ITI Course (Craftsman Training)
+240,Electronic Mechanic,ITI Course (Craftsman Training)
+241,Electroplater,ITI Course (Craftsman Training)
+242,Embroidery and Needle Work,ITI Course (Craftsman Training)
+243,Event Management Assistant,ITI Course (Craftsman Training)
+244,Excavator Operator(Mining),ITI Course (Craftsman Training)
+245,Fashion Technology,ITI Course (Craftsman Training)
+246,Finance Executive,ITI Course (Craftsman Training)
+247,Fire Technology and Industrial Safety Management,ITI Course (Craftsman Training)
+248,Fireman,ITI Course (Craftsman Training)
+249,Fitter,ITI Course (Craftsman Training)
+250,Floriculture & Landscaping,ITI Course (Craftsman Training)
+251,Foundry man,ITI Course (Craftsman Training)
+252,Front Office Assistant,ITI Course (Craftsman Training)
+253,Fruit & Vegetable Processing,ITI Course (Craftsman Training)
+254,Gold Smith,ITI Course (Craftsman Training)
+255,Hair and Skin care,ITI Course (Craftsman Training)
+256,Health Safety & Environment,ITI Course (Craftsman Training)
+257,Health Sanitary Inspector,ITI Course (Craftsman Training)
+258,Horticulture,ITI Course (Craftsman Training)
+259,Hospital House Keeping,ITI Course (Craftsman Training)
+260,Hospital Waste Management,ITI Course (Craftsman Training)
+261,Human Resource Executive,ITI Course (Craftsman Training)
+262,Industrial Painter,ITI Course (Craftsman Training)
+263,Information Technology & Electronics System Maintenance,ITI Course (Craftsman Training)
+264,Institution House Keeping,ITI Course (Craftsman Training)
+265,Instrument Mechanic,ITI Course (Craftsman Training)
+266,Instrument Mechanic (Chemical Plant),ITI Course (Craftsman Training)
+267,Insurance Agent,ITI Course (Craftsman Training)
+268,Interior Decoration and Designing,ITI Course (Craftsman Training)
+269,Laboratory Assistant (Chemical Plant),ITI Course (Craftsman Training)
+270,Leather Goods Maker (new name Footwear Management),ITI Course (Craftsman Training)
+271,Library & Information Science,ITI Course (Craftsman Training)
+272,Lift Mechanic,ITI Course (Craftsman Training)
+273,Litho – Offset Machine Minder,ITI Course (Craftsman Training)
+274,Machinist,ITI Course (Craftsman Training)
+275,Machinist (Grinder),ITI Course (Craftsman Training)
+276,Maintenance Mechanic (Chemical Plant),ITI Course (Craftsman Training)
+277,Manufacture of Footwear,ITI Course (Craftsman Training)
+278,Marine Engine Fitter,ITI Course (Craftsman Training)
+279,Marine Fitter,ITI Course (Craftsman Training)
+280,Marketing Executive,ITI Course (Craftsman Training)
+281,Mason (Building Constructor),ITI Course (Craftsman Training)
+282,Mech. Communication Equipment Maintenance,ITI Course (Craftsman Training)
+283,Mech. Repair & Maintenance of Heavy Vehicles,ITI Course (Craftsman Training)
+284,Mech. Repair & Maintenance of Light Vehicles,ITI Course (Craftsman Training)
+285,Mech. Repair & Maintenance of Two Wheelers,ITI Course (Craftsman Training)
+286,Mechanic (Diesel),ITI Course (Craftsman Training)
+287,Mechanic (Motor Vehicle),ITI Course (Craftsman Training)
+288,Mechanic (Radio & TV),ITI Course (Craftsman Training)
+289,Mechanic (Refrigeration and Air-Conditioner),ITI Course (Craftsman Training)
+290,Mechanic (Tractor),ITI Course (Craftsman Training)
+291,Mechanic Agricultural Machinery,ITI Course (Craftsman Training)
+292,Mechanic Auto Electrical and Electronics,ITI Course (Craftsman Training)
+293,Mechanic Computer Hardware,ITI Course (Craftsman Training)
+294,Mechanic Consumer Electronics,ITI Course (Craftsman Training)
+295,Mechanic Industrial Electronics,ITI Course (Craftsman Training)
+296,Mechanic Lens/Prism Grinding,ITI Course (Craftsman Training)
+297,Mechanic Machine Tools Maintenance,ITI Course (Craftsman Training)
+298,Mechanic Mechatronics,ITI Course (Craftsman Training)
+299,Mechanic Medical Electronics,ITI Course (Craftsman Training)
+300,Mechanic Mining Machinery,ITI Course (Craftsman Training)
+301,Mechanic-cum-Operator Electronics Communication System,ITI Course (Craftsman Training)
+302,Medical Transcription,ITI Course (Craftsman Training)
+303,Multimedia Animation to Special Effect,ITI Course (Craftsman Training)
+304,Network Technician,ITI Course (Craftsman Training)
+305,Office Assistant cum Computer Operator,ITI Course (Craftsman Training)
+306,Old Age Care,ITI Course (Craftsman Training)
+307,Operator Advanced Machine Tools,ITI Course (Craftsman Training)
+308,Painter General,ITI Course (Craftsman Training)
+309,Para Legal Assistant / Munshi,ITI Course (Craftsman Training)
+310,Photographer,ITI Course (Craftsman Training)
+311,Physiotherapy Technician,ITI Course (Craftsman Training)
+312,Plastic Processing Operator,ITI Course (Craftsman Training)
+313,Plate Maker-cum-Impositer,ITI Course (Craftsman Training)
+314,Plumber,ITI Course (Craftsman Training)
+315,Plumber,ITI Course (Craftsman Training)
+316,Pre/Preparatory School Management (Assistant),ITI Course (Craftsman Training)
+317,Process Cameraman,ITI Course (Craftsman Training)
+318,Radiology Technician (Radio Diagnosis & Radiotherapy),ITI Course (Craftsman Training)
+319,Rubber Technician,ITI Course (Craftsman Training)
+320,Sanitary Hardware fitter,ITI Course (Craftsman Training)
+321,Secretarial Practice,ITI Course (Craftsman Training)
+322,Sheet Metal Worker,ITI Course (Craftsman Training)
+323,Spa Therapy,ITI Course (Craftsman Training)
+324,Spinning Technician,ITI Course (Craftsman Training)
+325,Stenography (English),ITI Course (Craftsman Training)
+326,Stenography (Hindi),ITI Course (Craftsman Training)
+327,Steward,ITI Course (Craftsman Training)
+328,Stone Mining Machine Operator,ITI Course (Craftsman Training)
+329,Stone Processing Machines Operator,ITI Course (Craftsman Training)
+330,Surveyor,ITI Course (Craftsman Training)
+331,Textile Mechatronics,ITI Course (Craftsman Training)
+332,Textile Wet Processing Technician,ITI Course (Craftsman Training)
+333,Tool & Die Maker (Dies & Moulds),ITI Course (Craftsman Training)
+334,"Tool & Die Maker (Press Tools, Jigs & Fixtures)",ITI Course (Craftsman Training)
+335,Tourist Guide,ITI Course (Craftsman Training)
+336,Travel & Tour Assistant,ITI Course (Craftsman Training)
+337,Turner,ITI Course (Craftsman Training)
+338,Vessel Navigator,ITI Course (Craftsman Training)
+339,Weaving of Silk and Woolen Fabrics,ITI Course (Craftsman Training)
+340,Weaving of Woolen Fabrics,ITI Course (Craftsman Training)
+341,Weaving Technician,ITI Course (Craftsman Training)
+342,Welder (Gas and Electric),ITI Course (Craftsman Training)
+343,Wireman,ITI Course (Craftsman Training)
+344,Advance Mechanic (Instruments),ITI Course (Apprenticeship Training)
+345,Advance Welder,ITI Course (Apprenticeship Training)
+346,Advanced Attendant Operator (Process),ITI Course (Apprenticeship Training)
+347,Apprentice Food and Beverage Service (Stewardship),ITI Course (Apprenticeship Training)
+348,Apprentice Food Production (Cookery),ITI Course (Apprenticeship Training)
+349,Apprentice Food Production (Vegetarian),ITI Course (Apprenticeship Training)
+350,Apprentices Food Production (General),ITI Course (Apprenticeship Training)
+351,Architectural Assistant,ITI Course (Apprenticeship Training)
+352,Assistant Fashion Designer (Garment),ITI Course (Apprenticeship Training)
+353,Assistant Front Office Manager,ITI Course (Apprenticeship Training)
+354,Attendant Operator (Chemical Plant),ITI Course (Apprenticeship Training)
+355,Attendant Operator (Dairy),ITI Course (Apprenticeship Training)
+356,Auto Electrician,ITI Course (Apprenticeship Training)
+357,Auto Mechanic (Two Wheeler/ Three Wheeler),ITI Course (Apprenticeship Training)
+358,Baker and Confectioner,ITI Course (Apprenticeship Training)
+359,Barber/Hair Cutter/ Dresser,ITI Course (Apprenticeship Training)
+360,Battery Repairer,ITI Course (Apprenticeship Training)
+361,Beautician,ITI Course (Apprenticeship Training)
+362,Beautician Assistant,ITI Course (Apprenticeship Training)
+363,Blow Moulding Machine Operator,ITI Course (Apprenticeship Training)
+364,Boiler Attendant,ITI Course (Apprenticeship Training)
+365,Book Binder,ITI Course (Apprenticeship Training)
+366,Brew Master,ITI Course (Apprenticeship Training)
+367,Brick Layer (Refractory),ITI Course (Apprenticeship Training)
+368,Building Maintenance Technician,ITI Course (Apprenticeship Training)
+369,Cabin/Room Attendant,ITI Course (Apprenticeship Training)
+370,Cable Jointer,ITI Course (Apprenticeship Training)
+371,Cable Television Operator,ITI Course (Apprenticeship Training)
+372,CAD-CAM Operator cum Programmer,ITI Course (Apprenticeship Training)
+373,Call Centre Assistant,ITI Course (Apprenticeship Training)
+374,Carpenter,ITI Course (Apprenticeship Training)
+375,Ceramic Caster,ITI Course (Apprenticeship Training)
+376,Ceramic Decorator,ITI Course (Apprenticeship Training)
+377,Ceramic Kiln Operator,ITI Course (Apprenticeship Training)
+378,Ceramic Moulder,ITI Course (Apprenticeship Training)
+379,Ceramic Press Operator,ITI Course (Apprenticeship Training)
+380,Chemical Laboratory Assistant,ITI Course (Apprenticeship Training)
+381,CNC Programmer cum Operator,ITI Course (Apprenticeship Training)
+382,Computer Aided Embroidery and Needle Worker,ITI Course (Apprenticeship Training)
+383,Computer Aided Pattern Maker,ITI Course (Apprenticeship Training)
+384,Computer and Peripherals Hardware Repair and Maintenance Mechanic,ITI Course (Apprenticeship Training)
+385,Computer Networking Technician,ITI Course (Apprenticeship Training)
+386,Computer Operator and Programming Assistant,ITI Course (Apprenticeship Training)
+387,Construction Machinery Mechanic-cum-Operator,ITI Course (Apprenticeship Training)
+388,Crane Operator (Overhead Steel Industry),ITI Course (Apprenticeship Training)
+389,Creche Management Assistant,ITI Course (Apprenticeship Training)
+390,Creel Boy-cum-Warper,ITI Course (Apprenticeship Training)
+391,Cutting and Sewing Machine Operator,ITI Course (Apprenticeship Training)
+392,Data Preparation & Computer Software,ITI Course (Apprenticeship Training)
+393,Dental Laboratory Technician,ITI Course (Apprenticeship Training)
+394,Designer and Master Cutter,ITI Course (Apprenticeship Training)
+395,Desk Top Publishing (DTP) Operator,ITI Course (Apprenticeship Training)
+396,Digital Photographer,ITI Course (Apprenticeship Training)
+397,Doffer-cum-Piecer,ITI Course (Apprenticeship Training)
+398,Draughtsman (Civil),ITI Course (Apprenticeship Training)
+399,Draughtsman (Mechanical),ITI Course (Apprenticeship Training)
+400,Dress Maker,ITI Course (Apprenticeship Training)
+401,Driver-cum-Fitter,ITI Course (Apprenticeship Training)
+402,Electrical Mechanic,ITI Course (Apprenticeship Training)
+403,Electrician,ITI Course (Apprenticeship Training)
+404,Electrician (Mines),ITI Course (Apprenticeship Training)
+405,Electrician (Steel Plant),ITI Course (Apprenticeship Training)
+406,Electrician Aircraft,ITI Course (Apprenticeship Training)
+407,Electronics Mechanic,ITI Course (Apprenticeship Training)
+408,Electronics Mechanic (Steel Plant),ITI Course (Apprenticeship Training)
+409,Electroplater,ITI Course (Apprenticeship Training)
+410,Embroidery & Needle Worker,ITI Course (Apprenticeship Training)
+411,Enamel Glazer,ITI Course (Apprenticeship Training)
+412,Engraver,ITI Course (Apprenticeship Training)
+413,Extrusion Machine Operator (Plastic),ITI Course (Apprenticeship Training)
+414,Fashion Designing Assistant,ITI Course (Apprenticeship Training)
+415,Fibre Reinforced Plastic Processor        ,ITI Course (Apprenticeship Training)
+416,Finished Leather Maker,ITI Course (Apprenticeship Training)
+417,Fitter,ITI Course (Apprenticeship Training)
+418,Fitter (Steel Plant),ITI Course (Apprenticeship Training)
+419,Fitter Structural,ITI Course (Apprenticeship Training)
+420,Florist and Landscaper,ITI Course (Apprenticeship Training)
+421,Footwear  Maker,ITI Course (Apprenticeship Training)
+422,Forger and Heat Treater,ITI Course (Apprenticeship Training)
+423,Foundryman,ITI Course (Apprenticeship Training)
+424,Fruit and Vegetable Processor,ITI Course (Apprenticeship Training)
+425,Furnace Operator (Steel Industry),ITI Course (Apprenticeship Training)
+426,Furniture and Cabinet Maker,ITI Course (Apprenticeship Training)
+427,Gardener (Mali),ITI Course (Apprenticeship Training)
+428,Gas Cutter,ITI Course (Apprenticeship Training)
+429,Glass Former and Processor,ITI Course (Apprenticeship Training)
+430,Hair and Skin Carer,ITI Course (Apprenticeship Training)
+431,Hair Dresser,ITI Course (Apprenticeship Training)
+432,Health and Slimming Assistant,ITI Course (Apprenticeship Training)
+433,Heath Sanitary Inspector,ITI Course (Apprenticeship Training)
+434,Horticulture Assistant,ITI Course (Apprenticeship Training)
+435,Hospital Waste Management Assistant,ITI Course (Apprenticeship Training)
+436,Hotel Clerk/ Receptionist/ Front Office Assistant,ITI Course (Apprenticeship Training)
+437,House Keeper (Corporate),ITI Course (Apprenticeship Training)
+438,House Keeper (Domestic),ITI Course (Apprenticeship Training)
+439,House Keeper (Hospital),ITI Course (Apprenticeship Training)
+440,House Keeper (Hotel),ITI Course (Apprenticeship Training)
+441,House Keeper (Institution),ITI Course (Apprenticeship Training)
+442,House Keeper-cum-Accommodation Assistant,ITI Course (Apprenticeship Training)
+443,Information Technology and Electronic System Maintenance,ITI Course (Apprenticeship Training)
+444,Injection Moulding Machine Operator,ITI Course (Apprenticeship Training)
+445,Instrument Controller,ITI Course (Apprenticeship Training)
+446,Instrument Mechanic,ITI Course (Apprenticeship Training)
+447,Instrument Mechanic (Chemical Plant),ITI Course (Apprenticeship Training)
+448,Instrument Mechanic (Steel Plant),ITI Course (Apprenticeship Training)
+449,Insulator Maker/ Machine Operator (Ceramic),ITI Course (Apprenticeship Training)
+450,Insurance Agent,ITI Course (Apprenticeship Training)
+451,Interior Decorator and Designer,ITI Course (Apprenticeship Training)
+452,Jewellery and Precious Metal Worker,ITI Course (Apprenticeship Training)
+453,Jigs and Fixtures Maker,ITI Course (Apprenticeship Training)
+454,Knitter (Hosiery),ITI Course (Apprenticeship Training)
+455,Laboratory Assistant (Chemical Plant),ITI Course (Apprenticeship Training)
+456,Lacquering and Powder Coating Operator,ITI Course (Apprenticeship Training)
+457,Leather Goods Maker,ITI Course (Apprenticeship Training)
+458,Library Assistant,ITI Course (Apprenticeship Training)
+459,Lift Mechanic,ITI Course (Apprenticeship Training)
+460,Lineman,ITI Course (Apprenticeship Training)
+461,Lino Operator,ITI Course (Apprenticeship Training)
+462,Machinist,ITI Course (Apprenticeship Training)
+463,Machinist (Grinder),ITI Course (Apprenticeship Training)
+464,Maintenance Mechanic,ITI Course (Apprenticeship Training)
+465,Maintenance Mechanic for Leather Machinery,ITI Course (Apprenticeship Training)
+466,Mason (Building Constructor),ITI Course (Apprenticeship Training)
+467,Mate (Mines),ITI Course (Apprenticeship Training)
+468,Material Handling Equipment Mechanic-cum-Operator,ITI Course (Apprenticeship Training)
+469,Mechanic (Agriculture Machinery),ITI Course (Apprenticeship Training)
+470,"Mechanic (Central Air conditioning Plant, Industrial cooling and Package Air conditioning)",ITI Course (Apprenticeship Training)
+471,"Mechanic (Cold storage, Ice plant and Ice candy plant)",ITI Course (Apprenticeship Training)
+472,Mechanic (Dairy Maintenance),ITI Course (Apprenticeship Training)
+473,"Mechanic (Denting, Painting and Welding)",ITI Course (Apprenticeship Training)
+474,"Mechanic (Domestic, Commercial Refrigeration and Air Conditioning Machines)",ITI Course (Apprenticeship Training)
+475,Mechanic (DTH and other Communication System),ITI Course (Apprenticeship Training)
+476,Mechanic (Earth Moving Machinery),ITI Course (Apprenticeship Training)
+477,Mechanic (Electrical Domestic Appliances),ITI Course (Apprenticeship Training)
+478,Mechanic (Electrical Power Drives),ITI Course (Apprenticeship Training)
+479,Mechanic (Embedded Systems and PLC),ITI Course (Apprenticeship Training)
+480,"Mechanic (HT, LT Equipments and Cable Jointing)",ITI Course (Apprenticeship Training)
+481,Mechanic (Instrument Aircraft),ITI Course (Apprenticeship Training)
+482,Mechanic (Marine Diesel),ITI Course (Apprenticeship Training)
+483,Mechanic (Motor Vehicle),ITI Course (Apprenticeship Training)
+484,"Mechanic (Non-conventional Power Generation, Battery and Inverter)",ITI Course (Apprenticeship Training)
+485,Mechanic (Repair and Maintenance of Heavy Vehicles),ITI Course (Apprenticeship Training)
+486,Mechanic (Repair and Maintenance of Light  Vehicles),ITI Course (Apprenticeship Training)
+487,Mechanic (Repair and Maintenance of Two Wheelers),ITI Course (Apprenticeship Training)
+488,Mechanic Advanced Machine Tool Maintenance.,ITI Course (Apprenticeship Training)
+489,Mechanic Auto Electronics,ITI Course (Apprenticeship Training)
+490,Mechanic Automobile (Advance Petrol Engine),ITI Course (Apprenticeship Training)
+491,Mechanic Automobile Electronics,ITI Course (Apprenticeship Training)
+492,Mechanic Communication Equipment Maintenance,ITI Course (Apprenticeship Training)
+493,Mechanic Consumer Electronics,ITI Course (Apprenticeship Training)
+494,Mechanic –cum-Operator Electronics Communication System,ITI Course (Apprenticeship Training)
+495,Mechanic Electrical Maintenance (Industrial Automation),ITI Course (Apprenticeship Training)
+496,Mechanic Industrial Electronics,ITI Course (Apprenticeship Training)
+497,Mechanic Machine Tool Maintenance,ITI Course (Apprenticeship Training)
+498,Mechanic Maintenance (Chemical Plant),ITI Course (Apprenticeship Training)
+499,Mechanic Maintenance (Textile Machinery),ITI Course (Apprenticeship Training)
+500,Mechanic Mechanical Maintenance (Industrial Automation),ITI Course (Apprenticeship Training)
+501,Mechanic Mechatronics,ITI Course (Apprenticeship Training)
+502,Mechanic Medical Electronics,ITI Course (Apprenticeship Training)
+503,Mechanic Medical Equipment for Hospitals  and Occupational Health Centre.,ITI Course (Apprenticeship Training)
+504,"Mechanic Power Electronics (Inverters, UPS and Maintenance of Drives)",ITI Course (Apprenticeship Training)
+505,Mechanic Radio and Radar Aircraft,ITI Course (Apprenticeship Training)
+506,Mechanic Radio and T.V.,ITI Course (Apprenticeship Training)
+507,"Mechanic Radio, Audio, Video System and Appliances",ITI Course (Apprenticeship Training)
+508,Mechanic Repair and Maintenance of Electronics Test Equipment,ITI Course (Apprenticeship Training)
+509,Mechanic Sewing Machine,ITI Course (Apprenticeship Training)
+510,Mechanic Television (Video),ITI Course (Apprenticeship Training)
+511,Mechanic Watch and Clock,ITI Course (Apprenticeship Training)
+512,Mechanic (Repair and Maintenance of instruments used in Electrical Engineering),ITI Course (Apprenticeship Training)
+513,Mechanic Automobile (Advance Diesel Engine),ITI Course (Apprenticeship Training)
+514,Mechanic(Diesel),ITI Course (Apprenticeship Training)
+515,Mechanic(Mining Machinery),ITI Course (Apprenticeship Training)
+516,Medical Laboratory Technician (Cardiology and Physiology),ITI Course (Apprenticeship Training)
+517,Medical Laboratory Technician (Pathology),ITI Course (Apprenticeship Training)
+518,Medical Laboratory Technician (Radiology),ITI Course (Apprenticeship Training)
+519,Mono Castor Operator,ITI Course (Apprenticeship Training)
+520,Mono Keyboard Operator,ITI Course (Apprenticeship Training)
+521,Motor Vehicle Body Builder,ITI Course (Apprenticeship Training)
+522,Moulder (Refractory),ITI Course (Apprenticeship Training)
+523,Multimedia and Web Page Designer,ITI Course (Apprenticeship Training)
+524,Offset Machine Minder,ITI Course (Apprenticeship Training)
+525,Old Age Care Taker,ITI Course (Apprenticeship Training)
+526,Operator (Steel Plant),ITI Course (Apprenticeship Training)
+527,Operator Advanced Machine Tool,ITI Course (Apprenticeship Training)
+528,Operator Blast Furnace Iron Making Equipments,ITI Course (Apprenticeship Training)
+529,Operator Coal Handling Equipment,ITI Course (Apprenticeship Training)
+530,Operator Coke Ovens Battery Equipments,ITI Course (Apprenticeship Training)
+531,Operator Cum Mechanic (Power Plant),ITI Course (Apprenticeship Training)
+532,Operator Cum Mechanic Pollution Control Equipment.,ITI Course (Apprenticeship Training)
+533,Operator Locomotive and Rail Cranes in Steel Plant,ITI Course (Apprenticeship Training)
+534,Operator Material Handling at Raw Material Handling Plant,ITI Course (Apprenticeship Training)
+535,Operator PLC System,ITI Course (Apprenticeship Training)
+536,Operator Rolling Mills Equipment (Long Products),ITI Course (Apprenticeship Training)
+537,Operator Sinter Plant Equipments,ITI Course (Apprenticeship Training)
+538,Operator Steel Melting Equipments,ITI Course (Apprenticeship Training)
+539,Optical Worker,ITI Course (Apprenticeship Training)
+540,Painter (General),ITI Course (Apprenticeship Training)
+541,Painter (Marine),ITI Course (Apprenticeship Training)
+542,Pattern  Maker,ITI Course (Apprenticeship Training)
+543,Photographer,ITI Course (Apprenticeship Training)
+544,Pipe Fitter,ITI Course (Apprenticeship Training)
+545,Plastic Mould-Maker,ITI Course (Apprenticeship Training)
+546,Plastic Processing Operator      ,ITI Course (Apprenticeship Training)
+547,Plate Maker (Lithographic),ITI Course (Apprenticeship Training)
+548,PLC Operator,ITI Course (Apprenticeship Training)
+549,Plumber,ITI Course (Apprenticeship Training)
+550,Power Electrician,ITI Course (Apprenticeship Training)
+551,Pre or Preparatory School Management (Assistant),ITI Course (Apprenticeship Training)
+552,Printing Textile,ITI Course (Apprenticeship Training)
+553,Process Cameraman,ITI Course (Apprenticeship Training)
+554,Process Plant Operator,ITI Course (Apprenticeship Training)
+555,Programming and Systems Administration Assistant,ITI Course (Apprenticeship Training)
+556,Pruner Tea Gardens,ITI Course (Apprenticeship Training)
+557,Pump Operator Cum Mechanic,ITI Course (Apprenticeship Training)
+558,Quality Assurance Assistant,ITI Course (Apprenticeship Training)
+559,Refrigeration and Air-Conditioning Mechanic,ITI Course (Apprenticeship Training)
+560,Retoucher Lithographic,ITI Course (Apprenticeship Training)
+561,Rigger,ITI Course (Apprenticeship Training)
+562,Sales Person (Retail),ITI Course (Apprenticeship Training)
+563,Sanitary Hardware Fitter,ITI Course (Apprenticeship Training)
+564,Screen Printing,ITI Course (Apprenticeship Training)
+565,Secretarial Assistant,ITI Course (Apprenticeship Training)
+566,Senior Sales Person (Retail),ITI Course (Apprenticeship Training)
+567,Sheet Metal Worker,ITI Course (Apprenticeship Training)
+568,Shipwright (Wood),ITI Course (Apprenticeship Training)
+569,Shipwright(Steel),ITI Course (Apprenticeship Training)
+570,Shirts and Trousers Maker,ITI Course (Apprenticeship Training)
+571,Shotfirer/Blaster (Mines),ITI Course (Apprenticeship Training)
+572,Sirdar (Colliery),ITI Course (Apprenticeship Training)
+573,Sports Goods Maker (Wood),ITI Course (Apprenticeship Training)
+574,Sports Goods Maker  (Leather),ITI Course (Apprenticeship Training)
+575,Steam Turbine cum Auxiliary Plant Operator,ITI Course (Apprenticeship Training)
+576,Steel Melting Hand,ITI Course (Apprenticeship Training)
+577,Stenographer (English),ITI Course (Apprenticeship Training)
+578,Steward,ITI Course (Apprenticeship Training)
+579,Stockman (Dairy),ITI Course (Apprenticeship Training)
+580,Structural Welder,ITI Course (Apprenticeship Training)
+581,Surveyor,ITI Course (Apprenticeship Training)
+582,Switch Board Attendant,ITI Course (Apprenticeship Training)
+583,Tailor (General),ITI Course (Apprenticeship Training)
+584,Tailor (Men),ITI Course (Apprenticeship Training)
+585,Tailor (Women),ITI Course (Apprenticeship Training)
+586,Technician Fabricator,ITI Course (Apprenticeship Training)
+587,Tenter (Drawing Speed/Fly Frames),ITI Course (Apprenticeship Training)
+588,TIG/MIG Welder,ITI Course (Apprenticeship Training)
+589,Tool and Die Maker (Die and Moulds),ITI Course (Apprenticeship Training)
+590,"Tool and Die Maker (Press Tools, Jigs and Fixture)",ITI Course (Apprenticeship Training)
+591,Tourist Guide,ITI Course (Apprenticeship Training)
+592,Tractor  Mechanic,ITI Course (Apprenticeship Training)
+593,Turner,ITI Course (Apprenticeship Training)
+594,Tyre Repairer,ITI Course (Apprenticeship Training)
+595,Upholsterer,ITI Course (Apprenticeship Training)
+596,Utility Operator,ITI Course (Apprenticeship Training)
+597,Weaver,ITI Course (Apprenticeship Training)
+598,Welder (Gas and Electric),ITI Course (Apprenticeship Training)
+599,Welder (Pipe and Pressure Vessels),ITI Course (Apprenticeship Training)
+600,Winder (Armature),ITI Course (Apprenticeship Training)
+601,Winder (Textile),ITI Course (Apprenticeship Training)
+602,Wireman,ITI Course (Apprenticeship Training)
+603,Wood Handicrafts Worker,ITI Course (Apprenticeship Training)
+604,Architecture,Diploma
+605,Chemical Engineering,Diploma
+606,Civil Engineering,Diploma
+607,Computer Science Engineering,Diploma
+608,Electrical Engineering,Diploma
+609,Electronics / Telecommunication ,Diploma
+610,Engineering,Diploma
+611,Export / Import,Diploma
+612,Fashion Designing,Diploma
+613,Graphic / Web Designing,Diploma
+614,Hotel Management,Diploma
+615,Insurance,Diploma
+616,Management,Diploma
+617,Mechanical Engineering,Diploma
+618,Tourism,Diploma
+619,Visual Arts,Diploma
+620,Vocational Course,Diploma
+621,Arts,12th Pass
+622,Commerce,12th Pass
+623,Science,12th Pass
+624,Biology,12th Pass
